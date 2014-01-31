@@ -18,8 +18,7 @@ Notes
  4. 声明实现UISearchDisplayDelegate（xcode5不声明也会正常运行）
 
 
-
- Reference
- -----------------
- - [UITableViewController Class Reference](https://developer.apple.com/library/ios/documentation/uikit/reference/UITableViewController_Class/Reference/Reference.html) 
- - [Working with UITableView in Xcode 5 Using Storyboard](http://www.appcoda.com/uitableview-tutorial-storyboard-xcode5)
+Reference
+-----------------
+- [UITableViewController Class Reference](https://developer.apple.com/library/ios/documentation/uikit/reference/UITableViewController_Class/Reference/Reference.html) 
+- [Working with UITableView in Xcode 5 Using Storyboard](http://www.appcoda.com/uitableview-tutorial-storyboard-xcode5)
