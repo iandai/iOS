@@ -34,4 +34,4 @@ Solution Two
 Reference
 -----------------
 - [iOS7 navigationController is setting the contentInset and ContentOffset of UIScrollView](http://stackoverflow.com/questions/18924431/ios-7-navigationcontroller-is-setting-the-contentinset-and-contentoffset-of-m) 
-- [Working with UITableView in Xcode 5 Using Storyboard](http://www.appcoda.com/uitableview-tutorial-storyboard-xcode5)
+- [UIScrollView wrong offset with Auto Layout](http://stackoverflow.com/questions/15345522/uiscrollview-wrong-offset-with-auto-layout)
