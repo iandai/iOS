@@ -6,9 +6,8 @@ Xcode 证书和Provision Profile
 - Provisioning Profiles是一个配置集合，指定了“哪个App” 由“哪个证书签名”，允许运行在“哪些设备”上。
 ![executable](https://github.com/iandai/iOSTechNote/CertificateAndProvisionProfile/raw/master/img1.png)
 - code signing identity是在双击UNIQLO_App_global_enterprise.mobileprovision之后，自动安装到Keychain Access中的带有private_key的证书。这个证书会在Xcode中的code signing中的code signing identity中出现。
-![executable](https://github.com/iandai/CertificateAndProvisionProfile/raw/master/img2.png)
-![executable](https://github.com/iandai/CertificateAndProvisionProfile/raw/master/img3.png)
-
+![executable](https://github.com/iandai/raw/master/CertificateAndProvisionProfile/img2.png)
+![executable](https://github.com/iandai/raw/master/CertificateAndProvisionProfile/img3.png)
 
 
 Reference
